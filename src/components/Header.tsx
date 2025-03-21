@@ -1,6 +1,6 @@
 import { Search } from "lucide-react"
 
-export default function Header () {
+export function Header () {
     return (
         <header className="p-4 text-white">
             <nav className="container mx-auto flex justify-between items-center">
@@ -26,3 +26,5 @@ export default function Header () {
         </header>
     )
 }
+
+export default Header
