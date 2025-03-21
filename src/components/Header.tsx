@@ -21,6 +21,7 @@ export function Header () {
                 <ul className="flex gap-4">
                     <li><a className="hover:underline"> Home</a></li>
                     <li><a className="hover:underline"> Sobre</a></li>
+                    <li><a className="hover:underline"> Blog</a></li>
                 </ul>
             </nav>
         </header>
